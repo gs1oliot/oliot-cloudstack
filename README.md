@@ -1,4 +1,6 @@
-oliot-cloudstack
+Oliot Cloud Framework
+(Oliot-CloudStack)
 ================
 
-Cloudstack solution for Oliot project
+**Introduction**
+
