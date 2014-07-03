@@ -7,7 +7,7 @@ Oliot Cloud Framework (Oliot-cloudstack)
 
 
 <a name="Introduction"/>
-# Introduction<br />
+# Introduction
 Oliot-cloudstack is an implementation of Cloud framework for deployment of other Oliot components. The current implementation supports a simple load predictor, a simple scheduler, and migration of data and tcp link.
 
 
