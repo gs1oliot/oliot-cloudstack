@@ -3,9 +3,8 @@ Oliot Cloud Framework (Oliot-cloudstack)
 
 ##### Table of Contents  
 [Introduction](#Introduction)  
-[User Guide](#UserGuide) 
-[Developer Guide](#DeveloperGuide) 
-
+[User Guide](#UserGuide) <br />
+[Developer Guide](#DeveloperGuide)
 
 <a name="Introduction"/>
 # Introduction
