@@ -14,9 +14,4 @@ Oliot-cloudstack is an implementation of Cloud framework for deployment of other
 <a name = "User Guide"/>
 # User Guide
 You can install the Oliot-fc server as follows.
-1.	Install Java Virtual Machine (JVM)
-2.	Install Tomcat
-3.	Download oliot-fc web archive file (.war)
-4.	Copy oliot-fc web archive file (.war) to Tomcat directory ‘webapps’
-5.	Start the tomcat
 
